@@ -65,8 +65,13 @@ The objective was to build a complete data analysis workflow, from data acquisit
 
 ---
 
+- Trading volume analysis highlights periods of increased market activity and complements price-based trends.
+
+---
+
 ## Visualizations
 - Average Monthly Close vs Adjusted Close Price (AAPL)
+- Average Monthly Trading Volume (AAPL)
 
 ---
 
