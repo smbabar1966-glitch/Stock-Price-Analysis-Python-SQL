@@ -36,7 +36,6 @@ The dataset contains daily time-series data, including:
 - **Yahoo Finance (yfinance)**
 - **Jupyter Notebook**
 
----
 
 ## Methodology
 1. **Data Loading**
