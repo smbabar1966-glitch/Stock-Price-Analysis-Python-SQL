@@ -16,8 +16,18 @@ The dataset contains daily time-series data, including:
 - Adjusted Close
 - Trading Volume
 
+## Key Analyses & Insights
 
----
+- Analyzed daily and monthly price trends to understand long-term movement and short-term volatility.
+- Computed moving averages to smooth price fluctuations and highlight trend direction.
+- Examined trading volume patterns to identify periods of increased market activity.
+- Used SQL-style aggregation and filtering to summarize time-based behavior and support exploratory analysis.
+
+### Key Observations
+- Monthly averages reduce short-term noise and reveal clearer long-term trends.
+- Periods of high trading volume often coincide with increased price volatility.
+- Combining SQL-based aggregation with Python visualization improves interpretability of financial time series data.
+
 
 ## Tools & Technologies
 - **Python** (Pandas, NumPy)
