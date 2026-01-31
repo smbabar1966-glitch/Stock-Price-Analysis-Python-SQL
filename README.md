@@ -6,15 +6,16 @@ This project performs an end-to-end analysis of historical Apple (AAPL) stock pr
 The analysis demonstrates how Python and SQL can be combined to explore financial time series data and extract actionable insights.
 
 ## Data Source
-- Historical stock price data was retrieved using the **Yahoo Finance API**.
-- The dataset includes daily values for:
-  - Open
-  - High
-  - Low
-  - Close
-  - Adjusted Close
-  - Volume
-- Time period analyzed: **1 year of daily trading data**
+Historical stock price data for Apple Inc. (AAPL) was retrieved using the Yahoo Finance API.
+
+The dataset contains daily time-series data, including:
+- Open
+- High
+- Low
+- Close
+- Adjusted Close
+- Trading Volume
+
 
 ---
 
