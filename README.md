@@ -1,10 +1,9 @@
 # Stock Price Analysis Using Python and SQL (AAPL)
 
-## Project Overview
-This project performs an end-to-end analysis of historical Apple (AAPL) stock price data using Python, SQL, and data visualization techniques.  
-The objective was to build a complete data analysis workflow, from data acquisition and cleaning to SQL-based aggregation and insight generation.
+## Overview
+This project performs an end-to-end analysis of historical Apple (AAPL) stock price data using Python and SQL. The focus is on identifying trends, volatility patterns, and time-based behavior through data cleaning, aggregation, and visualization.
 
----
+The analysis demonstrates how Python and SQL can be combined to explore financial time series data and extract actionable insights.
 
 ## Data Source
 - Historical stock price data was retrieved using the **Yahoo Finance API**.
